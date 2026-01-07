@@ -1,3 +1,5 @@
-python-dotenv
-pandas
-sqlalchemy
+streamlit>=1.30
+pandas>=2.0
+SQLAlchemy>=2.0
+PyMySQL>=1.1
+python-dotenv>=1.0
