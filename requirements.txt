@@ -1,5 +1,4 @@
 streamlit>=1.30
-streamlit-js-eval
 pandas>=2.0
 SQLAlchemy>=2.0
 PyMySQL>=1.1
